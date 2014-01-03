@@ -1,0 +1,7 @@
+var i,j:integer;
+temp:integer;
+begin temp:=i;
+i:=j;
+j:=temp
+end
+.
